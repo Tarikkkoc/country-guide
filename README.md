@@ -28,21 +28,3 @@ npm start [OR] yarn start
 <div>
 localhost:[PORT]
 </div>
-
-<h3>Dark/Light</h3>
-<img src="./public/img/dark.jpg"/> </br>
-<img src="./public/img/light.jpg"/> </br>
-<h3>Search</h3>
-<img src="./public/img/search.jpg"/> </br>
-<h3>Responsive</h3>
-<img src="./public/img/responsive1.jpg"/> </br>
-<img src="./public/img/responsive2.jpg"/> </br>
-
-
-
-
-
-
-
-
-
